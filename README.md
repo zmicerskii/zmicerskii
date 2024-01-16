@@ -1,5 +1,5 @@
-![aa](https://github.com/zmicerskii/zmicerskii/assets/89748954/9f2a5f7f-8eb6-4b8f-a116-2c15f48384ec)<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/dzmitryyesipovich/" target="_blank"> Dima</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-![aa](https://github.com/zmicerskii/Bounce-Hoop/assets/89748954/12f82149-3a6b-409a-b538-83564b1cb762)
+![аа](https://github.com/zmicerskii/zmicerskii/assets/89748954/1145f0b2-3616-4223-9105-b17b98531f47)
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/dzmitryyesipovich/" target="_blank"> Dima</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"> I'm a game developer</h3>
 <h3 align="center">C++/Unreal Engine & C#/Unity</h3>
 <!--
