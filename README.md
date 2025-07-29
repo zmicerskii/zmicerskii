@@ -1,6 +1,11 @@
-![аа](https://github.com/zmicerskii/zmicerskii/assets/89748954/1145f0b2-3616-4223-9105-b17b98531f47)
-<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/dzmitryyesipovich/" target="_blank"> Dima</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"> I'm a game developer</h3>
-<h3 align="center">C++/Unreal Engine & C#/Unity</h3>
+<h1 align="center">
+  👋 Hi, I'm <a href="https://www.linkedin.com/in/dzmitryyesipovich/" target="_blank">Dima</a>
+</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&width=435&lines=🎮+Game+Developer;🧠+AI+Experimenter;💡+Creative+Technologist" alt="Typing SVG" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fd379406-dbfc-4ed0-a8ce-156f16bc0220" width="320" alt="Avatar" />
+</p>
 <!--
 **zmicerskii/zmicerskii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
